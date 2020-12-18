@@ -1,0 +1,14 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+code {
+    display: block;
+}
+
+.error{
+    color: red;
+}
+.info{
+    color: lightblue;
+}
